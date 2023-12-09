@@ -1,0 +1,16 @@
+{
+  "name": "text-game-fe",
+  "verison": "1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "suongnv",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "ejs": "latest"
+  }
+}
